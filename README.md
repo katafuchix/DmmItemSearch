@@ -16,3 +16,11 @@ struct Constants {
 }
 ```
 after put Constants.swift in this project, pod install.
+
+### Examples in this xcode project
+- getting items from DMM API with API Kit, Codable, Rx.
+- creating table with RxDataSources, without RxDataSources.
+- extended MBProgressHUD with Reactive.
+- example of MVVM base.
+
+### Screen capture
